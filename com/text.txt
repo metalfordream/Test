@@ -1,0 +1,2 @@
+override the regular expression defining what constitutes a word
+use given color as background color for the image - accepts any value from
